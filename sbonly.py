@@ -21,7 +21,7 @@ botStart = time.time()
 _session = requests.session()
 botStart = time.time()
 print("\n                   SB")
-cl = LINE("EFbnMivO7Xm9Xwv1esp2.eZ9Xen0a5JxWD2LxG3bvOG.auEST/V7kVkknXieXhKxm9xeuL0nn80PI1mMmGaev3E=")
+cl = LINE("")
 
 print("\nɪɴᴇxʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ \n__________________________")
 
@@ -32,11 +32,11 @@ print("\nɪɴᴇxʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ \n____
 oepoll = OEPoll(cl)
 call = cl
 runnerResponse = "ɪɴᴇxʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ"
-jaka = ["ua5b1fd053f5a6951349b912a8a7b6755"]
-creator = ["u47c3d261f6f7aee79c9f30de7dff3d48","ua5b1fd053f5a6951349b912a8a7b6755"]
-owner = ["u47c3d261f6f7aee79c9f30de7dff3d48","ua5b1fd053f5a6951349b912a8a7b6755"]
-admin = ["u47c3d261f6f7aee79c9f30de7dff3d48","ua5b1fd053f5a6951349b912a8a7b6755"]
-staff = ["u47c3d261f6f7aee79c9f30de7dff3d48","ua5b1fd053f5a6951349b912a8a7b6755"]
+jaka = ["u731d498cae8efdcfa42aab46077629e3"]
+creator = ["u731d498cae8efdcfa42aab46077629e3","ua5b1fd053f5a6951349b912a8a7b6755"]
+owner = ["u731d498cae8efdcfa42aab46077629e3","ua5b1fd053f5a6951349b912a8a7b6755"]
+admin = ["u731d498cae8efdcfa42aab46077629e3","ua5b1fd053f5a6951349b912a8a7b6755"]
+staff = ["u731d498cae8efdcfa42aab46077629e3","ua5b1fd053f5a6951349b912a8a7b6755"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 KAC = [cl]
